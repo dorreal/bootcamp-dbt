@@ -1,0 +1,17 @@
+product_id,product_name,category,price_cents,is_active
+1,Espresso,beverages,350,false
+2,Cappuccino,beverages,450,true
+3,Latte,beverages,500,true
+4,Americano,beverages,400,true
+5,Cold Brew,beverages,550,true
+6,Croissant,bakery,350,true
+7,Muffin,bakery,300,true
+8,Bagel,bakery,400,false
+9,Cookie,bakery,200,true
+10,Donut,bakery,250,true
+11,Sandwich,food,850,true
+12,Salad,food,950,true
+13,Wrap,food,750,true
+14,Soup,food,650,true
+15,Pasta,food,1100,true
+15,Pasta,food,1100,true
